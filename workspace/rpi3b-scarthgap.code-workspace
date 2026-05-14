@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "VSCode_Workspace",
+			"path": "/home/daihacker69/Documents/Yocto/rpi3b-scarthgap/VSCode_Workspace"
+		},
+		{
+			"path": "/home/daihacker69/Documents/Yocto/rpi3b-scarthgap/workspace"
+		},
+		{
+			"path": "/home/daihacker69/Documents/Yocto/rpi3b-scarthgap/docs"
+		},
+		{
+			"path": "/home/daihacker69/Documents/Yocto/rpi3b-scarthgap/poky" 
+		}
+	],
+	"settings": {}
+}
